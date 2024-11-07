@@ -32,6 +32,11 @@ Se XP for maior ou igual a 10.001 = Radiante
 Ao final deve se exibir uma mensagem:
 "O Herói de nome **{nome}** está no nível de **{nivel}**"
 
+
+# 👩🏽‍💻 Desafio 2: Calculadora de Partidas Rankeadas
+
+O segundo desafio do bootcamp da GFT em parceria com a DIO implementa uma calculadora de partidas ranqueadas para classificar jogadores com base em suas vitórias e derrotas. A função calcula o saldo de vitórias e determina o nível do jogador (Ferro, Bronze, Prata, etc.) de acordo com as regras especificadas. Esse código utiliza conceitos essenciais de variáveis, operadores, laços de repetição, estruturas de decisão e funções, reforçando práticas fundamentais de lógica de programação.
+
 ## 🤝🏽 Contribuições
 Contribuições são sempre bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
 
